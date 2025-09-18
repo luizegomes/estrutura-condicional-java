@@ -1,0 +1,5 @@
+# Ignorar pastas de build e configs
+build/
+nbproject/
+test/
+
